@@ -1,1 +1,1 @@
-Imagine having DMA and being unable to access github
+###### Imagine having DMA and being unable to access GitHub
