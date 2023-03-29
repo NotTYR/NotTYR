@@ -1,1 +1,1 @@
-![cyberpunk](https://user-images.githubusercontent.com/105924972/228484981-4d6b0e0f-9802-43c4-aa05-2603d32b5a08.gif)
+![cyberpunk](https://user-images.githubusercontent.com/105924972/228486474-a8bffb7b-b976-4e60-ba73-53c0b56eac75.gif)
