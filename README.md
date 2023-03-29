@@ -1,1 +1,1 @@
-<h1 style="color: red">RED</h1>
+<span style="color: red">RED</span>
