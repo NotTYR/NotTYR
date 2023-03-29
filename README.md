@@ -1,1 +1,7 @@
-<span style="color: red">RED</span>
+```diff
+- Pe
++ l
+! an
+# g
+@@ i
+```
