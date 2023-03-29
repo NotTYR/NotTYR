@@ -1,6 +1,10 @@
-# Hey There! 
-I am Tan You Ren, student of Hwa Chong Institution.
+<style>
+  div {
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+  }
+</style>
+Apparently you can add CSS here
 
-## What I am doing now:
-#### an app
-#### kahoot bot
+<div>Hover over me</div>
